@@ -1,3 +1,5 @@
+package SimpleTask;
+
 public abstract class Bank {
     abstract String checkAccountCash();
 
@@ -35,7 +37,7 @@ class ATMachine extends Bank {
 
     @Override
     String isAvilableToTransferMoney() {
-        return "Informacja o przyjęciu prośby wypłaty przez Bank";
+        return "Informacja o przyjęciu prośby wypłaty przez SimpleTask.Bank";
     }
 
     @Override

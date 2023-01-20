@@ -1,16 +1,18 @@
+package SimpleTask;
+
 interface Quest {
     void process();
 }
 
 class DeadIslandQuest implements Quest {
     public void process() {
-        System.out.println("Wykonaja zadanie na DeadIslandQuest");
+        System.out.println("Wykonaja zadanie na SimpleTask.DeadIslandQuest");
     }
 }
 
 class EliteKnightQuest implements Quest {
     public void process() {
-        System.out.println("Wykonaja zadanie na EliteKnightQuest");
+        System.out.println("Wykonaja zadanie na SimpleTask.EliteKnightQuest");
     }
 }
 

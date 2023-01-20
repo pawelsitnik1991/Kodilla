@@ -1,3 +1,5 @@
+package SimpleTask;
+
 import java.util.HashSet;
 import java.util.Objects;
 import java.util.Set;
@@ -50,7 +52,7 @@ class BooksSet {
 
     @Override
     public String toString() {
-        return "BooksSet{" +
+        return "SimpleTask.BooksSet{" +
             "nameOfBook='" + nameOfBook + '\'' +
             ", author='" + author + '\'' +
             ", yearOFregisterBook=" + yearOFregisterBook +

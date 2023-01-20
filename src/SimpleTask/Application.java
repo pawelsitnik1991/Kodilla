@@ -1,3 +1,5 @@
+package SimpleTask;
+
 public class Application {
 
     private String name;

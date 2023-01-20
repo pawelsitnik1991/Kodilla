@@ -1,3 +1,5 @@
+package SimpleTask;
+
 import java.util.Arrays;
 
 public class CalculateAvg {
