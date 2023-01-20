@@ -1,4 +1,4 @@
-package Stringsa;
+package main.Stringsa;
 
 import java.util.ArrayDeque;
 import java.util.ArrayList;

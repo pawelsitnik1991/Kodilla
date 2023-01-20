@@ -1,4 +1,4 @@
-package SimpleTask;
+package main.SimpleTask;
 
 public class Kolejki {
 }

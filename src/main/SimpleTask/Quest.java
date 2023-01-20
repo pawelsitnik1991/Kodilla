@@ -1,4 +1,4 @@
-package SimpleTask;
+package main.SimpleTask;
 
 interface Quest {
     void process();
@@ -6,13 +6,13 @@ interface Quest {
 
 class DeadIslandQuest implements Quest {
     public void process() {
-        System.out.println("Wykonaja zadanie na SimpleTask.DeadIslandQuest");
+        System.out.println("Wykonaja zadanie na main.SimpleTask.DeadIslandQuest");
     }
 }
 
 class EliteKnightQuest implements Quest {
     public void process() {
-        System.out.println("Wykonaja zadanie na SimpleTask.EliteKnightQuest");
+        System.out.println("Wykonaja zadanie na main.SimpleTask.EliteKnightQuest");
     }
 }
 

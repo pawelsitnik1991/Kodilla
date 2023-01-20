@@ -1,4 +1,4 @@
-package HasObject;
+package main.HasObject;
 
 public class TaskObject {
 

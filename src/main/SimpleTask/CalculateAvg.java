@@ -1,4 +1,4 @@
-package SimpleTask;
+package main.SimpleTask;
 
 import java.util.Arrays;
 
